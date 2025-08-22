@@ -8,9 +8,9 @@
 
 
 
-https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white
-<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+![Alt text](<https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white>)
+![Alt text](<https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white>)
+![Alt text](<https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white>)
 
 <!--
 **hun9812/hun9812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
