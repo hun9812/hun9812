@@ -1,14 +1,16 @@
 ## Hi there 👋
 
 
-[![TryHackMe Stats](https://tryhackme-readme-stats.vercel.app/api/stats?username=hun9812)](https://tryhackme.com/p/hun9812)
+[![TryHackMe Stats](https://tryhackme-readme-stats.vercel.app/api/stats?username=hun9812&theme=dracula)](https://tryhackme.com/p/hun9812)
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/?username=LeetCodeHunNamgung)
 
-Python
+
+
+
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
-MySQL
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
 <!--
