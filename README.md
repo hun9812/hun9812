@@ -3,14 +3,13 @@
 
 [![TryHackMe Stats](https://tryhackme-readme-stats.vercel.app/api/stats?username=hun9812&theme=dracula)](https://tryhackme.com/p/hun9812)
 
-![LeetCode Stats](https://leetcode.card.workers.dev/?username=LeetCodeHunNamgung)
+![LeetCode Stats](https://leetcode.card.workers.dev/?username=HunNamgung)
 
 
 
 
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-
+https://img.shields.io/badge/Solidity-363636.svg?style=for-the-badge&logo=Solidity&logoColor=white
+<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
 <!--
