@@ -1,6 +1,7 @@
 ## 
 ✨Studying Cyber Security✨
 
+![tryhackme stats](https://raw.githubusercontent.com/hun9812/hun9812/master/assets/thm_propic.png)
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/?username=HunNamgung)
 
