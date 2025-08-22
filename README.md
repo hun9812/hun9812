@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![TryHackMe Profile](https://tryhackme.com/p/hun9812/badge)](https://tryhackme.com/p/hun9812)
 <!--
 **hun9812/hun9812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
