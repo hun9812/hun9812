@@ -3,7 +3,13 @@
 
 [![TryHackMe Stats](https://tryhackme-readme-stats.vercel.app/api/stats?username=hun9812)](https://tryhackme.com/p/hun9812)
 
-![LeetCode Stats](https://img.shields.io/badge/dynamic/json?label=Solved&query=solved&url=https%3A%2F%2Fleetcode-stats.vercel.app%2Fapi%2FHunNamgung&color=blue&style=for-the-badge)
+![LeetCode Stats](https://leetcode.card.workers.dev/?username=LeetCodeHunNamgung)
+
+Python
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
+MySQL
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 
 <!--
 **hun9812/hun9812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
