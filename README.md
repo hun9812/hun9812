@@ -1,5 +1,10 @@
 ## Hi there 👋
-[![TryHackMe Profile](https://tryhackme.com/p/hun9812/badge)](https://tryhackme.com/p/hun9812)
+
+
+[![TryHackMe Stats](https://tryhackme-readme-stats.vercel.app/api/stats?username=hun9812)](https://tryhackme.com/p/hun9812)
+
+![LeetCode Stats](https://img.shields.io/badge/dynamic/json?label=Solved&query=solved&url=https%3A%2F%2Fleetcode-stats.vercel.app%2Fapi%2FHunNamgung&color=blue&style=for-the-badge)
+
 <!--
 **hun9812/hun9812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
