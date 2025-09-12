@@ -1,5 +1,5 @@
 ## 
-✨Studying Cyber Security✨
+✨Interests: AI | Cyber Security | Computer Vision✨
 
 [![TryHackMe Profile](https://tryhackme.com/p/hun9812/badge)](https://tryhackme.com/p/hun9812)
 
