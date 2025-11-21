@@ -1,7 +1,7 @@
 ## 
 ✨Interests: Machine Learning | Cyber Security ✨
 
-![TryHackMe Badge](https://tryhackme.com/p/hun9812/badge)
+![TryHackMe Badge for hun9812](https://tryhackme.com/p/hun9812/badge)
 
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/?username=HunNamgung)
