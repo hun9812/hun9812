@@ -1,7 +1,7 @@
 ## 
-✨Interests: AI | Cyber Security | Computer Vision✨
+✨Interests: Machine Learning | Cyber Security ✨
 
-[![TryHackMe Profile](https://tryhackme.com/p/hun9812/badge)](https://tryhackme.com/p/hun9812)
+![TryHackMe Badge](https://tryhackme.com/p/hun9812/badge)
 
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/?username=HunNamgung)
