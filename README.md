@@ -3,7 +3,6 @@
 ##
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/?username=HunNamgung)
-[![Kaggle Stats](https://kaggle-stats.vercel.app/api?username=hun9812&theme=light)](https://www.kaggle.com/hun9812)
 
 
 
