@@ -2,7 +2,7 @@
 ✨Interests: | Machine Learning | Data Engineering | ✨
 ##
 
-![LeetCode Stats](https://leetcode.card.workers.dev/HunNamgung?theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/HunNamgung?theme=dark&font=Noto%20Sans)
 
 
 
